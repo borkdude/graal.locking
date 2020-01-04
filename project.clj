@@ -1,4 +1,4 @@
-(defproject borkdude/graal.locking "0.0.1"
+(defproject borkdude/graal.locking "0.0.2"
   :dependencies [[org.clojure/clojure "1.9.0"]]
   :description "A workaround for CLJ-1472 as a library"
   :url "https://github.com/borkdude/graal.locking"
